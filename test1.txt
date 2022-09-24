@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 thi typye for ddd
 abar comand promt a kj kortaeci barnch ar jonno
 
+=======
+ahajkhakja
+>>>>>>> 33d9bbbca342b890fac852047204692259153e93
 
 akhane change korlam
 
